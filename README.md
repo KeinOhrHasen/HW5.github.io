@@ -4,6 +4,10 @@
  * ```https://github.com/KeinOhrHasen/HW5.github.io.git```
 
  * ```npm install```
+ *```npm install mongoose --save-dev```
+ *```npm install express --save-dev```
+ *```npm install body-parser --save-dev```
+ *```npm install nodemon --save-dev```
  
  ### Run:
  * ```npm start```
